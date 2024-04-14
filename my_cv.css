@@ -1,0 +1,39 @@
+body {
+    /* background-image: url("Images/img head/minimalism-code-command-lines-terminal-simple-background-gradient-2285390-wallhere.com.jpg"); */
+    /* background-color: #22272E ; */
+    background-size: cover;
+    background-image: url("Images/img head/minimalism-code-mountains-simple-background-waves-2199491-wallhere.com.jpg")
+    
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+}
+
+.partie1 {
+    text-align: center;
+    border-radius: 10px;
+    border: solid 1px;
+    /* background-color: lightblue; */
+    width: 250px;
+    height: auto;
+    background-size: cover;
+    background-image: url("Images/img head/minimalism-code-mountains-simple-background-waves-2199491-wallhere.com.jpg");
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+    .navbar-brand {
+    display: contents;
+}
+
+.cv {
+    color: navy;
+    border: solid 1px;
+    border-color: black;
+    border-radius: 10px;
+    width: 250px;
+    background-color: rgb(32, 45, 102);
+    
+}
